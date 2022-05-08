@@ -1,8 +1,8 @@
 {
-  "name": "Heroku-v2ray",
-  "description": "将v2ray部署在Heroku上",
+  "name": "alistonheroku",
+  "description": "将alist部署在Heroku上",
   "keywords": [
-    "v2ray VMess VLESS"
+    "alist"
   ],
   "env": {
     "PROTOCOL": {
@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/DaoChen6/Heroku-v2ray",
-  "repository": "https://github.com/DaoChen6/Heroku-v2ray",
+  "website": "https://github.com/pigeonpig/v2onkoyeb/",
+  "repository": "https://github.com/pigeonpig/v2onkoyeb/",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
